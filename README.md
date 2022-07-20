@@ -14,9 +14,9 @@ $ npm run build-dev
 Generate a dist folder for prod:
 $ npm run build-prod 
 
-Run the Express server on port 3000:
+Run the Express server on port 8080:
 $ npm start 
-Open http://localhost:3000 to view it in the browser.
+Open http://localhost:8080 to view it in the browser.
 
 Run unit tests
 $ npm test
